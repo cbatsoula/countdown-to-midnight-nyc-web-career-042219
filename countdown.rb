@@ -9,7 +9,7 @@ number = 10
     number -= 1
     end
 if number == 0
-  puts "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
 end
 end
 
