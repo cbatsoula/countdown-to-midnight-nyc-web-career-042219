@@ -11,6 +11,6 @@ number = 10
       
 end
 
-def countdown_with_sleep
+def countdown_with_sleep(int)
   sleep(5) 
 end
